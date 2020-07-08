@@ -10,7 +10,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="Views/TAC/Events/Layout/Events.cshtml">
-      <publishTime>07/08/2020 20:38:05</publishTime>
+      <publishTime>07/08/2020 21:01:30</publishTime>
     </File>
   </ItemGroup>
 </Project>
