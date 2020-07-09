@@ -254,6 +254,11 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Views\TAC\Events\Layout\Events.cshtml" />
     <Content Include="Views\EventIntro\Index.cshtml" />
+    <Content Include="Views\TAC\Events\SideContent.cshtml" />
+    <Content Include="Views\TAC\Events\PageBody.cshtml" />
+    <Content Include="Views\TAC\Events\Two-Column.cshtml" />
+    <Content Include="Views\TAC\Events\One-Column.cshtml" />
+    <Content Include="Views\TAC\Events\HomeContent.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
