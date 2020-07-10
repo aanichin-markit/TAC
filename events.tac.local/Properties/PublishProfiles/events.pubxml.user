@@ -10,10 +10,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/events.tac.local.dll">
-      <publishTime>07/09/2020 15:18:22</publishTime>
+      <publishTime>07/09/2020 23:22:31</publishTime>
     </File>
     <File Include="bin/events.tac.local.pdb">
-      <publishTime>07/09/2020 15:18:22</publishTime>
+      <publishTime>07/09/2020 23:22:31</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>05/24/2018 19:38:22</publishTime>
@@ -529,7 +529,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/26/2019 00:33:48</publishTime>
     </File>
     <File Include="Views/TAC/Events/FeaturedEvent.cshtml">
-      <publishTime>07/09/2020 19:18:02</publishTime>
+      <publishTime>07/09/2020 19:31:41</publishTime>
     </File>
     <File Include="Views/TAC/Events/FeatureRow.cshtml">
       <publishTime>07/09/2020 19:44:20</publishTime>
